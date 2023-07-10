@@ -2,8 +2,8 @@
 An analysis for a pizza startup about customer ordering habits, how much money the restaurant has made so far, and how efficient their delivery people are.
 
 ### Tools Used
-SQL (Structured Query Language)
-Jupyter Notebook
+* SQL (Structured Query Language)
+* Jupyter Notebook
 
 ### Part 1: Pizza Metrics
 1. How many pizzas were ordered?
